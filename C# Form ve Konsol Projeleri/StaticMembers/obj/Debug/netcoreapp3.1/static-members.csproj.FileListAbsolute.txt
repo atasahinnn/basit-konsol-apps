@@ -1,0 +1,13 @@
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\bin\Debug\netcoreapp3.1\static-members.exe
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\bin\Debug\netcoreapp3.1\static-members.deps.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\bin\Debug\netcoreapp3.1\static-members.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\bin\Debug\netcoreapp3.1\static-members.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\bin\Debug\netcoreapp3.1\static-members.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\bin\Debug\netcoreapp3.1\static-members.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\obj\Debug\netcoreapp3.1\static-members.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\obj\Debug\netcoreapp3.1\static-members.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\obj\Debug\netcoreapp3.1\static-members.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\obj\Debug\netcoreapp3.1\static-members.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\obj\Debug\netcoreapp3.1\static-members.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\obj\Debug\netcoreapp3.1\static-members.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\static-members\obj\Debug\netcoreapp3.1\static-members.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\bin\Debug\netcoreapp3.1\Interface-Apps.exe
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\bin\Debug\netcoreapp3.1\Interface-Apps.deps.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\bin\Debug\netcoreapp3.1\Interface-Apps.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\bin\Debug\netcoreapp3.1\Interface-Apps.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\bin\Debug\netcoreapp3.1\Interface-Apps.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\bin\Debug\netcoreapp3.1\Interface-Apps.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\obj\Debug\netcoreapp3.1\Interface-Apps.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\obj\Debug\netcoreapp3.1\Interface-Apps.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\obj\Debug\netcoreapp3.1\Interface-Apps.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\obj\Debug\netcoreapp3.1\Interface-Apps.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\obj\Debug\netcoreapp3.1\Interface-Apps.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\obj\Debug\netcoreapp3.1\Interface-Apps.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\Interface-Apps\obj\Debug\netcoreapp3.1\Interface-Apps.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\bin\Debug\netcoreapp3.1\QuizKonsolApplikasyon.exe
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\bin\Debug\netcoreapp3.1\QuizKonsolApplikasyon.deps.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\bin\Debug\netcoreapp3.1\QuizKonsolApplikasyon.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\bin\Debug\netcoreapp3.1\QuizKonsolApplikasyon.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\bin\Debug\netcoreapp3.1\QuizKonsolApplikasyon.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\bin\Debug\netcoreapp3.1\QuizKonsolApplikasyon.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\obj\Debug\netcoreapp3.1\QuizKonsolApplikasyon.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\obj\Debug\netcoreapp3.1\QuizKonsolApplikasyon.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\obj\Debug\netcoreapp3.1\QuizKonsolApplikasyon.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\obj\Debug\netcoreapp3.1\QuizKonsolApplikasyon.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\obj\Debug\netcoreapp3.1\QuizKonsolApplikasyon.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\obj\Debug\netcoreapp3.1\QuizKonsolApplikasyon.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\QuizKonsolApplikasyon\obj\Debug\netcoreapp3.1\QuizKonsolApplikasyon.genruntimeconfig.cache

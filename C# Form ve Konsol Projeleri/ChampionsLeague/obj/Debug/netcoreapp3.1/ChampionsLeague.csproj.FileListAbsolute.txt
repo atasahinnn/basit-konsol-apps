@@ -1,0 +1,32 @@
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.exe
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.deps.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.Form1.resources
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.csproj.GenerateResource.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.genruntimeconfig.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.Properties.Resources.resources
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.exe
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.deps.json
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.runtimeconfig.json
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.dll
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\bin\Debug\netcoreapp3.1\ChampionsLeague.pdb
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.Form1.resources
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.Properties.Resources.resources
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.csproj.GenerateResource.cache
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.AssemblyInfo.cs
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.dll
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.pdb
+C:\Users\aatas\Desktop\NET CORE\C#\C# Form ve Konsol Projeleri\ChampionsLeague\obj\Debug\netcoreapp3.1\ChampionsLeague.genruntimeconfig.cache

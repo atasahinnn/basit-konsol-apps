@@ -1,0 +1,15 @@
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\bin\Debug\netcoreapp3.1\SinemaTakipSistemi.exe
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\bin\Debug\netcoreapp3.1\SinemaTakipSistemi.deps.json
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\bin\Debug\netcoreapp3.1\SinemaTakipSistemi.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\bin\Debug\netcoreapp3.1\SinemaTakipSistemi.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\bin\Debug\netcoreapp3.1\SinemaTakipSistemi.dll
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\bin\Debug\netcoreapp3.1\SinemaTakipSistemi.pdb
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.Form1.resources
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.csproj.GenerateResource.cache
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.dll
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.pdb
+C:\Users\aatas\Desktop\c#\SinemaTakipSistemi\obj\Debug\netcoreapp3.1\SinemaTakipSistemi.genruntimeconfig.cache

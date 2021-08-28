@@ -1,0 +1,30 @@
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.exe
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.deps.json
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.dll
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.pdb
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.Form1.resources
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.csproj.GenerateResource.cache
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.dll
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.pdb
+C:\Users\aatas\Desktop\c#\PROJELER\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.genruntimeconfig.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.exe
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.deps.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\bin\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.Form1.resources
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.csproj.GenerateResource.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\MaxMinHesaplamaAraci\obj\Debug\netcoreapp3.1\MaxMinHesaplamaAraci.genruntimeconfig.cache

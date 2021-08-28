@@ -1,0 +1,13 @@
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\bin\Debug\netcoreapp3.1\hata-yonetimiApp.exe
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\bin\Debug\netcoreapp3.1\hata-yonetimiApp.deps.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\bin\Debug\netcoreapp3.1\hata-yonetimiApp.runtimeconfig.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\bin\Debug\netcoreapp3.1\hata-yonetimiApp.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\bin\Debug\netcoreapp3.1\hata-yonetimiApp.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\bin\Debug\netcoreapp3.1\hata-yonetimiApp.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\obj\Debug\netcoreapp3.1\hata-yonetimiApp.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\obj\Debug\netcoreapp3.1\hata-yonetimiApp.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\obj\Debug\netcoreapp3.1\hata-yonetimiApp.AssemblyInfo.cs
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\obj\Debug\netcoreapp3.1\hata-yonetimiApp.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\obj\Debug\netcoreapp3.1\hata-yonetimiApp.dll
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\obj\Debug\netcoreapp3.1\hata-yonetimiApp.pdb
+C:\Users\aatas\Desktop\c#\C# Form ve Konsol Projeleri\hata-yonetimiApp\obj\Debug\netcoreapp3.1\hata-yonetimiApp.genruntimeconfig.cache
